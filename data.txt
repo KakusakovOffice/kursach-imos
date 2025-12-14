@@ -1,0 +1,4 @@
+thick-wall-width=450
+thin-wall-width=130
+
+floor2-roof-extension=700
